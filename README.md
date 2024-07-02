@@ -3,6 +3,9 @@
 ### Overview
 The Homework Tracker App is a simple Java-based console application designed to help users manage their assignments efficiently. Users can add new assignments, mark them as complete, view all pending assignments, and clear the entire list of assignments. The app leverages Object-Oriented Programming (OOP) principles to ensure a clean and maintainable code structure.
 
+<img width="320" alt="image" src="https://github.com/zayedansari2/AssignmentTracker/assets/174281840/89a9f41a-5b6e-461c-bc87-af5603d60735">
+
+
 ### Features
 - **Add New Assignment**: Users can input a description of their new assignment, which will be added to the list.
 - **Mark Assignment as Complete**: Users can mark any assignment as complete, which will remove it from the list.
